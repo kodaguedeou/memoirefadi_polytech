@@ -1,0 +1,12 @@
+name: shiny_app
+title:
+username: fadidimeo
+account: fadidimeo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10051893
+bundleId: 7751777
+url: https://fadidimeo.shinyapps.io/shiny_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

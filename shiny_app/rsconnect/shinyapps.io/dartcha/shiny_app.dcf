@@ -1,0 +1,13 @@
+name: shiny_app
+title: shiny_app
+username: dartcha
+account: dartcha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9816516
+bundleId: 7665062
+url: https://dartcha.shinyapps.io/shiny_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R
